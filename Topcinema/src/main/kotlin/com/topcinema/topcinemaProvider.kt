@@ -15,7 +15,7 @@ import kotlin.collections.component2
 
 class TopCinemaProvider : MainAPI() {
     override var mainUrl = "https://topcinemaa.com/"
-    override var name = "Top Cinema"
+    override var name = "low cima"
     override val hasMainPage = true
     override var lang = "ar"
     override val hasDownloadSupport = true
